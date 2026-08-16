@@ -1,0 +1,6 @@
+{
+  "name": "Kushal Store",
+  "description": "Shop Smart. Shop Easy. Premium e-commerce app with rich product catalog, smart search, cart, checkout, order tracking, wishlist, customer account, reviews, coupons, and comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
